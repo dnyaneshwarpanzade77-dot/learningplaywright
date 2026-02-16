@@ -1,0 +1,27 @@
+## Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+pnpm-lock.yaml
+
+## Playwright
+test-results/
+playwright-report/
+playwright/.local-browsers/
+
+## Env
+.env
+.env.local
+
+## OS
+.DS_Store
+Thumbs.db
+
+## IDEs
+.vscode/
+.idea/
+
+## Logs
+# add log file patterns as needed
